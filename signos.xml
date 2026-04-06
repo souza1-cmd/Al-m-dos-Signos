@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Sua energia é contagiante e sua iniciativa abre portas onde outros veem muros.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Sua força é silenciosa, mas inabalável. Você transforma esforço em resultado real.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Sua mente ágil e sua comunicação te tornam único. Você se adapta e aprende rápido.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Sua sensibilidade é seu maior trunfo. Você acolhe e cura com um olhar.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Você nasceu para brilhar. Sua presença é magnética e sua liderança inspira.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Sua precisão e cuidado elevam tudo ao redor. Você vê detalhes que ninguém nota.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Seu equilíbrio e beleza interior encantam. Você tem o dom de harmonizar conflitos.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Você tem uma intensidade magnética e uma força de transformação raríssima.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Seu entusiasmo é um presente. Você vê oportunidades onde há rotina.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Sua disciplina constrói montanhas. Você cria seu caminho com determinação.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>19/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Sua originalidade não tem igual. Você vê o futuro antes dos outros.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>20/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Sua sensibilidade artística e compaixão tocam fundo. Você sonha e realiza.</descricao>
+    </signo>
+</signos>
